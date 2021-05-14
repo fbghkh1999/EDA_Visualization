@@ -1,2 +1,2 @@
 # data-projects
- work on some data bases and analyze them
+ work on some datasets  and analyze them
