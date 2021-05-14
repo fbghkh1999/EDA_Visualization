@@ -1,2 +1,2 @@
 # data-projects
- work on some datasets  and analyze them
+ work on some datasets(titanic-divar,..)  and analyze them
